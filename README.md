@@ -1,3 +1,3 @@
 # demo-repository
-demo repository for practice\n
+Demo repository for practice.
 Updated readme.md file using web editor 
